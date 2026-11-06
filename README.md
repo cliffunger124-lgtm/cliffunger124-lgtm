@@ -17,7 +17,7 @@
 ### 🚀 Мои главные проекты:
 *   [devops-portfolio-project](https://github.com/cliffunger124-lgtm/devops-portfolio-project) — Monorepo с веб-приложением и инфраструктурой (Docker + k3s + CI/CD).
 *   [prometheus-grafana-monitoring](https://github.com/cliffunger124-lgtm/prometheus-grafana-monitoring) — Полный стек Observability с автоматическими алертами в Telegram.
-*   [vps-k8s-infrastructure](https://github.com/cliffunger124-lgtm/vps-k8s-infrastructure) — Манифесты для развертывания production-инфраструктуры на VPS.
+*   [vps-k8s-infrastructure](https://github.com/cliffunger124-lgtm/vps-k3s-infrastructure) — Манифесты для развертывания production-инфраструктуры на VPS.
 
 ### 📫 Как со мной связаться:
 *   **Сайт-портфолио:** [das-devops.site](https://das-devops.site)
